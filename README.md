@@ -64,9 +64,3 @@ This project addresses **30+ real-world business questions**, including:
 - Percentage contribution of each product to total revenue
 - Products priced above the category average
 
----
-
-## Sample Insight
-A small group of customers makes up a surprisingly high percentage of total revenue, showing strong repeat purchasing behavior.
-
-Certain months always show higher sales, indicating seasonal demand patterns.
